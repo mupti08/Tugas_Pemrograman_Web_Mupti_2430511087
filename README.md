@@ -1,4 +1,4 @@
-# FIXTLAPBOT ID - Sistem Manajemen Servis Laptop Berbasis AI
+# FIXTLAPBOT ID - Sistem Manajemen Servis Laptop
 
 FIXTLAPBOT ID adalah sebuah aplikasi berbasis web untuk mengelola administrasi dan pendataan servis laptop. Mengusung tema asisten robot AI, sistem ini dirancang untuk mencatat keluhan pelanggan, mendokumentasikan bukti fisik kerusakan secara mendetail, dan menyimpan persetujuan pelanggan secara digital dalam satu dashboard yang interaktif.
 
